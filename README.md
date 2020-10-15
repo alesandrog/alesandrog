@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Alesandro's github stats](https://github-readme-stats.vercel.app/api?username=alesandrog&count_private=true&show_icons=true&theme=prussian)
+![Alesandro's github stats](https://github-readme-stats.vercel.app/api?username=alesandrog&count_private=true&show_icons=true&theme=prussian&hide=stars,prs,issues,contribs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alesandrog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
