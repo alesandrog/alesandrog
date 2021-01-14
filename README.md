@@ -1,7 +1,7 @@
 <p align="center"><img style="align:center" src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" width="75" height="75"/>
 </p>
 
-<h2 align="center">Hi there, <b> I'm Alesandro  </b></h2>
+<h2 align="center">Hi there, **I'm Alesandro** </h2>
 
 <p align="center">Software and Computer Science Engineering student.
 </p>
