@@ -98,4 +98,4 @@
 
 </p>
 
-![](https://hit.yhype.me/github/profile?user_id=55900600)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alesandrog&label=Profile%20views&color=0e75b6&style=flat" alt="alesandrog" /> </p>
