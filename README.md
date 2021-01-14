@@ -93,8 +93,8 @@
 <br>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nelson-alesandro-gonz%C3%A1lez-p%C3%A9rez-b8605a1b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrGzHWQ2jRSew1Vq%2FJ54A0w%3D%3D" style="margin:10px;"><img src="https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png"> </a>
-<a href="mailto:nelsonalesandrog@gmail.com" style="margin:10px;"><img src="https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png"> </a>
+<a href="https://www.linkedin.com/in/nelson-alesandro-gonz%C3%A1lez-p%C3%A9rez-b8605a1b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrGzHWQ2jRSew1Vq%2FJ54A0w%3D%3D" style="margin:10px;"><img src="https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png" style="margin:10px;"> </a>
+<a href="mailto:nelsonalesandrog@gmail.com" style="margin:10px;"><img src="https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png" style="margin:10px;"> </a>
 
 </p>
 
