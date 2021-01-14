@@ -1,6 +1,6 @@
 <center>
 <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" width="75" height="75"/>
-<h2 align="center">Hi there, <b> I'm Alesandro  </b></h2>
+<h2 >Hi there, <b> I'm Alesandro  </b></h2>
 
 <p>
 
