@@ -3,7 +3,7 @@
 
 <h2 align="center">Hi there, <b> I'm Alesandro  </b></h2>
 
-<p style="text-align: center;">Software and Computer Science Engineering student.
+<p align="center">Software and Computer Science Engineering student.
 </p>
 
 <p style="text-align: center;">🐶 Dachshund owner
